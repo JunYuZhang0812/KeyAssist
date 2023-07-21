@@ -1,0 +1,12 @@
+F:\SelfWork\DNFAssist\bin\Debug\DNFAssist.exe.config
+F:\SelfWork\DNFAssist\bin\Debug\DNFAssist.exe
+F:\SelfWork\DNFAssist\bin\Debug\DNFAssist.pdb
+F:\SelfWork\DNFAssist\obj\Debug\DNFAssist.csproj.AssemblyReference.cache
+F:\SelfWork\DNFAssist\obj\Debug\DNFAssist.Properties.Resources.resources
+F:\SelfWork\DNFAssist\obj\Debug\DNFAssist.csproj.GenerateResource.cache
+F:\SelfWork\DNFAssist\obj\Debug\DNFAssist.csproj.CoreCompileInputs.cache
+F:\SelfWork\DNFAssist\obj\Debug\DNFAssist.exe
+F:\SelfWork\DNFAssist\obj\Debug\DNFAssist.pdb
+F:\SelfWork\DNFAssist\bin\Debug\Win32.dll
+F:\SelfWork\DNFAssist\obj\Debug\DNFAssist.csproj.CopyComplete
+F:\SelfWork\DNFAssist\obj\Debug\KeyAssist.KeyData.resources
